@@ -47,42 +47,6 @@ This repository contains the source code for a professional portfolio website de
   - Custom domain configuration
   - SSL certification
 
-## Development Setup
-1. Clone the repository
-```bash
-git clone https://github.com/username/portfolio-website.git
-cd portfolio-website
-```
-
-2. Install dependencies
-```bash
-npm install
-```
-
-3. Start development server
-```bash
-npm run dev
-```
-
-4. Build for production
-```bash
-npm run build
-```
-
-## Project Structure
-```
-portfolio-website/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   ├── styles/
-│   └── utils/
-├── public/
-├── tests/
-└── docs/
-```
-
 ## Customization
 The portfolio is designed to be easily customizable:
 - Update `src/data/projects.js` to modify project showcase
@@ -131,7 +95,7 @@ Contributions are welcome! Please follow these steps:
 5. Open a pull request
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+No license is provided
 
 ## Contact
 For any inquiries or suggestions, please reach out through:
